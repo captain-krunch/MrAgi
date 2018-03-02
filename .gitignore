@@ -4,6 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/HoloToolkit/
+/Assets/HoloToolkit*
 /Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
